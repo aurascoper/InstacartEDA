@@ -64,7 +64,7 @@ These insights can be foundational for machine learning applications like person
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/instacart-eda.git
+   git clone https://github.com/aurascoper/instacart-eda.git
    ```
 
 2. Navigate to the folder and open the notebook:
