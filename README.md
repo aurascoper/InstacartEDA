@@ -34,7 +34,7 @@ The dataset used is the **Instacart Market Basket Analysis** dataset. You can fi
 Typical files include:
 
 * `orders.csv`
-* `order_products__prior.csv`
+* `order_products_prior.csv`
 * `products.csv`
 * `aisles.csv`
 * `departments.csv`
